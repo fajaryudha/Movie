@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">NewMovie</string>
+    <string name="app_name">New Movie</string>
     <string name="action_settings">Settings</string>
     <string name="action_now_playing">Now Playing</string>
     <string name="action_popular">Popular</string>
     <string name="action_top_rated">Top Rated</string>
     <string name="action_upcoming">Upcoming</string>
+    <string name="lihat_lainya">Lainya</string>
+    <string name="ukuran_font">15sp</string>
 </resources>
